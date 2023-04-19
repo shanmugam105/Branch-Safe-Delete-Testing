@@ -18,3 +18,8 @@ Im going to edit this feature on 19 Apr 9:57 AM
 
 Im going to edit this feature on 1 Apr 9:24 PM
 
+<<<<<<< HEAD
+=======
+Im going to edit this feature on 1 Apr 10:59 PM
+
+>>>>>>> fe3a662 (Edit 1)
