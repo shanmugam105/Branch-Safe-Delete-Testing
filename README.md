@@ -22,4 +22,9 @@ Im going to edit this feature on 1 Apr 9:24 PM
 =======
 Im going to edit this feature on 1 Apr 10:59 PM
 
+<<<<<<< HEAD
 >>>>>>> fe3a662 (Edit 1)
+=======
+Im going to edit this feature on 1 Apr 11:07 PM
+
+>>>>>>> 01de710 (Edit 2)
