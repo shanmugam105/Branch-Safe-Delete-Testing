@@ -27,4 +27,8 @@ Im going to edit this feature on 1 Apr 10:59 PM
 =======
 Im going to edit this feature on 1 Apr 11:07 PM
 
+<<<<<<< HEAD
 >>>>>>> 01de710 (Edit 2)
+=======
+Im going to edit this feature on 1 Apr 11:09 PM
+>>>>>>> fcac9c2 (Edit 3)
